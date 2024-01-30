@@ -1,4 +1,4 @@
-# minitalk
+# minitalk (125/100)
 
 **minitalk** is a project at 42 School that involves creating a simple client-server communication program using signals. It consists of two programs: a server and a client. The client sends messages to the server, and the server receives and displays them.
 
